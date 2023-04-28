@@ -6,4 +6,33 @@
 
 :root {
   font-size: 62.5%;
+  background-color: #eeeeee;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+#img {
+  width: auto;
+  max-width: 500px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  width: 40%;
+  font-size: 2rem;
+}
+
+li:hover {
+  font-size: 2.5rem;
 }
