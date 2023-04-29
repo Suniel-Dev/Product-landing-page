@@ -95,10 +95,12 @@ h1 {
   width: 50%;
   font-size: 1.5rem;
 }
+
 .ad {
   margin: 4rem auto;
   text-align: center;
 }
+
 iframe {
   width: 40%;
   max-width: 1000px;
@@ -218,6 +220,7 @@ h4 {
     display: block;
     text-align: center;
   }
+
   .icon {
     width: 100%;
     padding-bottom: 3rem;
