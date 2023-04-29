@@ -9,9 +9,13 @@
   background-color: #eeeeee;
 }
 
+ul {
+  list-style: none;
+}
+
 a {
-  text-decoration: none;
   color: inherit;
+  text-decoration: none;
 }
 
 nav {
@@ -25,10 +29,9 @@ nav {
   max-width: 40rem;
 }
 
-ul {
+nav ul {
   display: flex;
   justify-content: space-evenly;
-  list-style: none;
   width: 40%;
   font-size: 2rem;
 }
@@ -118,4 +121,27 @@ button {
   background-color: orange;
   padding: 0.5rem;
   border-radius: 1rem;
+}
+
+footer {
+  width: 80%;
+  margin: 5rem auto;
+}
+
+.footer {
+  display: flex;
+  justify-content: end;
+  font-size: 2.5rem;
+  padding: 2rem;
+  background-color: lightgray;
+}
+
+.footer li {
+  padding: 2rem;
+}
+
+h4 {
+  font-size: 2rem;
+  text-align: center;
+  background-color: silver;
 }
