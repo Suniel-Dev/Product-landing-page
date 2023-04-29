@@ -6,7 +6,7 @@
 
 :root {
   font-size: 62.5%;
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 ul {
@@ -46,10 +46,6 @@ h1 {
   margin: 3rem;
 }
 
-.email {
-  text-align: center;
-}
-
 #form {
   display: flex;
   flex-direction: column;
@@ -59,6 +55,7 @@ h1 {
   width: 60%;
   margin: 0 auto;
   padding: 0.5rem;
+  text-align: center;
 }
 
 .btn {
