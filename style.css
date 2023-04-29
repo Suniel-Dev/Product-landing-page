@@ -22,7 +22,7 @@ nav {
 
 #img {
   width: auto;
-  max-width: 500px;
+  max-width: 400px;
 }
 
 ul {
@@ -35,4 +35,46 @@ ul {
 
 li:hover {
   font-size: 2.5rem;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin: 30px;
+}
+
+.email {
+  text-align: center;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+}
+
+.email {
+  width: 60%;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.btn {
+  width: 40%;
+  margin: 10px auto;
+}
+
+.icon {
+  width: 10%;
+  color: orange;
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.hero {
+  width: 50%;
+  font-size: 1.5rem;
 }
