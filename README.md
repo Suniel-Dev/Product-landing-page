@@ -12,7 +12,7 @@ Creating a product landing page for original trombones.
 ## Getting Started
 
 ## Live view
-[Live view]()
+[Live view](https://timely-creponne-2fbea8.netlify.app/)
 
 ## Prerequisite
 
